@@ -6,7 +6,7 @@ public:
         int sum=0;
         //int a;
         for(int i =0;i<n;i+=2){
-            sum+=nums[i];
+            sum+=nums[i]; //this is much simpler than below code
           
             //  for(int j=i+1;j<n;j++){
             //     a=min(nums[i],nums[j]);

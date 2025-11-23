@@ -31,6 +31,7 @@ public:
         while(list2!=nullptr){
             ptr->next=list2;
             list2=list2->next;
+            ptr=ptr->next;
         }
 
       

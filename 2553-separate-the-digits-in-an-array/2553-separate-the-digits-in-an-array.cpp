@@ -4,7 +4,7 @@ public:
         vector<int>ans;
         int temp;
         for(int i =0;i<nums.size();i++){
-            if(nums[i]<9){
+            if(nums[i]<=9){
                 ans.push_back(nums[i]);
             }else{
                 // temp=nums[i];

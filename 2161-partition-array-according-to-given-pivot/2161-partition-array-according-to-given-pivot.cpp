@@ -11,7 +11,8 @@ public:
         for(int it:nums){
             if(it>pivot)ans.push_back(it);
         }
-        return ans;
+        nums=ans;
+        return  nums;
         
     }
 };

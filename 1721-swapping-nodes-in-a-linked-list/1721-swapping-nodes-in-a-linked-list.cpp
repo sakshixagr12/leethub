@@ -26,6 +26,7 @@ public:
             tail->next = new ListNode(res[i]);
             tail = tail->next;
         }
+        //delete head;
         return head1;
     }
 };

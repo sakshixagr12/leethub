@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/sakshixagr12/leethub/tree/main/0002-add-two-numbers/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sakshixagr12/leethub/tree/main/0141-linked-list-cycle/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/sakshixagr12/leethub/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/sakshixagr12/leethub/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -18,4 +19,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/sakshixagr12/leethub/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/sakshixagr12/leethub/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/sakshixagr12/leethub/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/sakshixagr12/leethub/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->

@@ -13,19 +13,40 @@ public:
     ListNode* removeElements(ListNode* head, int val) {
         if(head==nullptr) return nullptr;
         
-        while(head!=nullptr&&head->val==val){
-           ListNode *del=head;
-           head=head->next;
-           delete del; 
-        }
-         ListNode *temp=head;
-        while(temp!=nullptr&&temp->next!=nullptr){
-            if(temp->next->val==val){
-                ListNode *del=temp->next;
-                temp->next=temp->next->next;
-                delete del;
+        // while(head!=nullptr&&head->val==val){
+        //    ListNode *del=head;
+        //    head=head->next;
+        //    delete del; 
+        // }
+        //  ListNode *temp=head;
+        // while(temp!=nullptr&&temp->next!=nullptr){
+        //     if(temp->next->val==val){
+        //         ListNode *del=temp->next;
+        //         temp->next=temp->next->next;
+        //         delete del;
+        //     }
+        //     else temp=temp->next;
+        // }
+
+        ListNode *temp=head;
+        ListNode *prev=nullptr;
+        while(temp!=nullptr){
+            if(temp->val==val){
+                ListNode *t=temp;
+                if(prev==nullptr){
+                    head=temp->next;
+                    delete temp;
+                    temp=head;
+                } else {
+                    prev->next=temp->next;
+                    t=temp;
+                    temp=temp->next;
+                    delete t;
+                }}else{
+                prev=temp;
+                temp=temp->next;
             }
-            else temp=temp->next;
+
         }
         return head;
     }

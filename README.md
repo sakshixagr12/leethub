@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sakshixagr12/leethub/tree/main/0020-valid-parentheses/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/sakshixagr12/leethub/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sakshixagr12/leethub/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -61,4 +62,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sakshixagr12/leethub/tree/main/0020-valid-parentheses/) | Easy |
 | [3340-check-balanced-string](https://github.com/sakshixagr12/leethub/tree/main/3340-check-balanced-string/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sakshixagr12/leethub/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sakshixagr12/leethub/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->

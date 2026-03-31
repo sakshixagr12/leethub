@@ -7,9 +7,9 @@ public:
     }
     
     void push(int val) {
-        if(st.empty()) {
+        if (st.empty()) {
             st.push(val);
-            mini=val;
+            mini = val;
         }
         else {
             if ( mini <= val) st.push(val);
@@ -22,11 +22,13 @@ public:
     }
     
     void pop() {
-        if (st.empty()){ return;}
+        if (st.empty()) { 
+             return;
+            }
         else {
             long long x = st.top();
             st.pop();
-            if ( x >= mini){}
+            if ( x >= mini) {}
             else {
                 mini = 2LL*mini-x;
             }
@@ -34,14 +36,17 @@ public:
     }
     
     int top() {
-        if (st.empty()){return -1;}
+        if (st.empty()) {
+            return -1;
+            }
         long long  x = st.top();
-        if(x>=mini) return x;
+        if ( x >= mini) return x;
         else return mini;
         
     }
     
     int getMin() {
+        if (st.empty()) return -1;
         return mini;
     }
 };

@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/sakshixagr12/leethub/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshixagr12/leethub/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/sakshixagr12/leethub/tree/main/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/sakshixagr12/leethub/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/sakshixagr12/leethub/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sakshixagr12/leethub/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Array
@@ -72,10 +73,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/sakshixagr12/leethub/tree/main/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/sakshixagr12/leethub/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/sakshixagr12/leethub/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sakshixagr12/leethub/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/sakshixagr12/leethub/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |

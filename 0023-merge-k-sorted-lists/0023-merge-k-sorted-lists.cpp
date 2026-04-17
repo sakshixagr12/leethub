@@ -8,7 +8,7 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
- ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
+ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
         ListNode temp(0);
         ListNode *tail= &temp;
         while(list1 != nullptr && list2 != nullptr){

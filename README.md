@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/sakshixagr12/leethub/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakshixagr12/leethub/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/sakshixagr12/leethub/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/sakshixagr12/leethub/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshixagr12/leethub/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/sakshixagr12/leethub/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshixagr12/leethub/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sakshixagr12/leethub/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/sakshixagr12/leethub/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/sakshixagr12/leethub/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/sakshixagr12/leethub/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/sakshixagr12/leethub/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshixagr12/leethub/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/sakshixagr12/leethub/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/sakshixagr12/leethub/tree/main/0392-is-subsequence/) | Easy |

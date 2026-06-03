@@ -17,17 +17,34 @@ public:
         // }
         // return -1;
 
+        // int n = nums.size();
+        // vector<int>prefix(n);
+        // prefix[0]=nums[0];
+        // int lsum=0,rsum=0;
+        // for(int i =1;i<n ;i++)prefix[i]=prefix[i-1]+nums[i];
+        // int total = prefix[n-1];
+        // for(int i = 0 ;i<n;i++){
+        //     if(i==0) lsum=0;
+        //     else lsum=prefix[i-1];
+        //     rsum=total-prefix[i];
+        //     if(lsum==rsum) return i;
+        // }
+        // return -1;
+
         int n = nums.size();
-        vector<int>prefix(n);
-        prefix[0]=nums[0];
-        int lsum=0,rsum=0;
-        for(int i =1;i<n ;i++)prefix[i]=prefix[i-1]+nums[i];
-        int total = prefix[n-1];
-        for(int i = 0 ;i<n;i++){
-            if(i==0) lsum=0;
-            else lsum=prefix[i-1];
-            rsum=total-prefix[i];
-            if(lsum==rsum) return i;
+        int sum=0;
+        for(auto it : nums) sum+=it;
+
+        int lsum=0;
+        int rsum=0;
+
+        for(int i = 0 ; i<n ; i++){
+            if(i==0)lsum=0;
+            else lsum+=nums[i-1];
+
+            rsum=sum-(lsum+nums[i]);
+            
+            if(lsum==rsum)return i;
         }
         return -1;
     }

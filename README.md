@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/sakshixagr12/leethub/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/sakshixagr12/leethub/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/sakshixagr12/leethub/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/sakshixagr12/leethub/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakshixagr12/leethub/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/sakshixagr12/leethub/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/sakshixagr12/leethub/tree/main/0125-valid-palindrome/) | Easy |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/sakshixagr12/leethub/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/sakshixagr12/leethub/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/sakshixagr12/leethub/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/sakshixagr12/leethub/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakshixagr12/leethub/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/sakshixagr12/leethub/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/sakshixagr12/leethub/tree/main/0053-maximum-subarray/) | Medium |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/sakshixagr12/leethub/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/sakshixagr12/leethub/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/sakshixagr12/leethub/tree/main/0018-4sum/) | Medium |
 | [0169-majority-element](https://github.com/sakshixagr12/leethub/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/sakshixagr12/leethub/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sakshixagr12/leethub/tree/main/0349-intersection-of-two-arrays/) | Easy |

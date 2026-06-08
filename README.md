@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/sakshixagr12/leethub/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sakshixagr12/leethub/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/sakshixagr12/leethub/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/sakshixagr12/leethub/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/sakshixagr12/leethub/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/sakshixagr12/leethub/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/sakshixagr12/leethub/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/sakshixagr12/leethub/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/sakshixagr12/leethub/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/sakshixagr12/leethub/tree/main/0392-is-subsequence/) | Easy |
 | [3340-check-balanced-string](https://github.com/sakshixagr12/leethub/tree/main/3340-check-balanced-string/) | Easy |
 ## Design
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sakshixagr12/leethub/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/sakshixagr12/leethub/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/sakshixagr12/leethub/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sakshixagr12/leethub/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/sakshixagr12/leethub/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/sakshixagr12/leethub/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |

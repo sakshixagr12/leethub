@@ -1,24 +1,13 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        // brute force approach
-        
-        for (int i = 0 ; i<nums.size(); i++) {
-
-            int sum=0;
-           
-            for (int j= i+1; j<nums.size();j++) {
-
-            
-                sum  = nums[i] + nums[j];
-        
-                if(sum==target){
-                return {i,j};
-            }
-                
-              
-            }
-          
+        unordered_map<int,int>mpp;
+        for(int i = 0;i<nums.size();i++){
+            int firstNum=nums[i];
+            int secondNum=target-firstNum;
+            if(mpp.find(secondNum)!=mpp.end())
+                return {i,mpp[secondNum]};
+            mpp[firstNum]=i;
         }
         return {-1,-1};
     }

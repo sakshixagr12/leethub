@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sakshixagr12/leethub/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshixagr12/leethub/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/sakshixagr12/leethub/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sakshixagr12/leethub/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sakshixagr12/leethub/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/sakshixagr12/leethub/tree/main/0169-majority-element/) | Easy |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/sakshixagr12/leethub/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakshixagr12/leethub/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/sakshixagr12/leethub/tree/main/0042-trapping-rain-water/) | Hard |
+| [0049-group-anagrams](https://github.com/sakshixagr12/leethub/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/sakshixagr12/leethub/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshixagr12/leethub/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/sakshixagr12/leethub/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/sakshixagr12/leethub/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/sakshixagr12/leethub/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/sakshixagr12/leethub/tree/main/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/sakshixagr12/leethub/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/sakshixagr12/leethub/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/sakshixagr12/leethub/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/sakshixagr12/leethub/tree/main/0242-valid-anagram/) | Easy |
@@ -125,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshixagr12/leethub/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/sakshixagr12/leethub/tree/main/0020-valid-parentheses/) | Easy |
+| [0049-group-anagrams](https://github.com/sakshixagr12/leethub/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/sakshixagr12/leethub/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/sakshixagr12/leethub/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/sakshixagr12/leethub/tree/main/0125-valid-palindrome/) | Easy |

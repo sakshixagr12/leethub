@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/sakshixagr12/leethub/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/sakshixagr12/leethub/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/sakshixagr12/leethub/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/sakshixagr12/leethub/tree/main/0054-spiral-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshixagr12/leethub/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/sakshixagr12/leethub/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshixagr12/leethub/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/sakshixagr12/leethub/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/sakshixagr12/leethub/tree/main/0067-add-binary/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/sakshixagr12/leethub/tree/main/0566-reshape-the-matrix/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sakshixagr12/leethub/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/sakshixagr12/leethub/tree/main/0054-spiral-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/sakshixagr12/leethub/tree/main/0566-reshape-the-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/sakshixagr12/leethub/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Sliding Window

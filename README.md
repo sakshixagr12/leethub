@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/sakshixagr12/leethub/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/sakshixagr12/leethub/tree/main/0394-decode-string/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/sakshixagr12/leethub/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/sakshixagr12/leethub/tree/main/0739-daily-temperatures/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/sakshixagr12/leethub/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/sakshixagr12/leethub/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/sakshixagr12/leethub/tree/main/0724-find-pivot-index/) | Easy |
+| [0739-daily-temperatures](https://github.com/sakshixagr12/leethub/tree/main/0739-daily-temperatures/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sakshixagr12/leethub/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/sakshixagr12/leethub/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sakshixagr12/leethub/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/sakshixagr12/leethub/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/sakshixagr12/leethub/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/sakshixagr12/leethub/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/sakshixagr12/leethub/tree/main/0739-daily-temperatures/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |

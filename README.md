@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/sakshixagr12/leethub/tree/main/0394-decode-string/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/sakshixagr12/leethub/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/sakshixagr12/leethub/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/sakshixagr12/leethub/tree/main/0901-online-stock-span/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/sakshixagr12/leethub/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/sakshixagr12/leethub/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/sakshixagr12/leethub/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0901-online-stock-span](https://github.com/sakshixagr12/leethub/tree/main/0901-online-stock-span/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/sakshixagr12/leethub/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/sakshixagr12/leethub/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/sakshixagr12/leethub/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/sakshixagr12/leethub/tree/main/0901-online-stock-span/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,4 +257,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sakshixagr12/leethub/tree/main/0014-longest-common-prefix/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/sakshixagr12/leethub/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->

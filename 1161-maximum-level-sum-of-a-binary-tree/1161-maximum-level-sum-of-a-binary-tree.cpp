@@ -16,7 +16,7 @@ public:
         queue<TreeNode*>q;
         q.push(root);
         int level=1;
-        int l =1;
+        int currlev =1;
         while(!q.empty()) {
             int sum = 0;
             int size = q.size();
@@ -31,9 +31,9 @@ public:
             }
             if(sum>maxi) {
                 maxi=sum;
-                level=l;
+                level=currlev;
             }
-            l++;
+            currlev++;
         }
         return level;
 

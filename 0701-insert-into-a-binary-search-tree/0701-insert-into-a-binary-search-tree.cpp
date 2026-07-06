@@ -21,10 +21,10 @@ public:
         while (temp!=nullptr) {
             if (temp->val > val) {
                 if (temp->left==nullptr){
-                    temp->left=new TreeNode(val);
+                    temp->left = new TreeNode(val);
                     break;
                 }
-                temp=temp->left;
+                temp = temp->left;
             }
             else {
                 if (temp->right == nullptr) {

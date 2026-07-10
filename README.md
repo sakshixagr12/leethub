@@ -287,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/sakshixagr12/leethub/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sakshixagr12/leethub/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0226-invert-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/sakshixagr12/leethub/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sakshixagr12/leethub/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/sakshixagr12/leethub/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sakshixagr12/leethub/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0226-invert-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/sakshixagr12/leethub/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sakshixagr12/leethub/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0226-invert-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/sakshixagr12/leethub/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sakshixagr12/leethub/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |

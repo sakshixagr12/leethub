@@ -6,7 +6,9 @@ public:
             ans.push_back(ds);
             return;
         }
-        for(int cnt=i;cnt <= 9;cnt++){
+        if(k<0) return;
+        if(n<0) return;
+        for(int cnt = i;cnt <= 9;cnt++){
             if(cnt>n)break;
             ds.push_back(cnt);
             func(cnt+1,k-1,n-cnt,ans,ds);

@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/sakshixagr12/leethub/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/sakshixagr12/leethub/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakshixagr12/leethub/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0039-combination-sum](https://github.com/sakshixagr12/leethub/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/sakshixagr12/leethub/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/sakshixagr12/leethub/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/sakshixagr12/leethub/tree/main/0053-maximum-subarray/) | Medium |
@@ -361,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/sakshixagr12/leethub/tree/main/0039-combination-sum/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sakshixagr12/leethub/tree/main/0257-binary-tree-paths/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |

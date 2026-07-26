@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/sakshixagr12/leethub/tree/main/0067-add-binary/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshixagr12/leethub/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/sakshixagr12/leethub/tree/main/0189-rotate-array/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/sakshixagr12/leethub/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sakshixagr12/leethub/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/sakshixagr12/leethub/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sakshixagr12/leethub/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/sakshixagr12/leethub/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/sakshixagr12/leethub/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/sakshixagr12/leethub/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/sakshixagr12/leethub/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/sakshixagr12/leethub/tree/main/0739-daily-temperatures/) | Medium |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sakshixagr12/leethub/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/sakshixagr12/leethub/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sakshixagr12/leethub/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/sakshixagr12/leethub/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/sakshixagr12/leethub/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sakshixagr12/leethub/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sakshixagr12/leethub/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |

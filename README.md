@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshixagr12/leethub/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/sakshixagr12/leethub/tree/main/0189-rotate-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sakshixagr12/leethub/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/sakshixagr12/leethub/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sakshixagr12/leethub/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sakshixagr12/leethub/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sakshixagr12/leethub/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sakshixagr12/leethub/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/sakshixagr12/leethub/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |

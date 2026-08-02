@@ -43,7 +43,7 @@ public:
         int answer=0;
         vector<string>board(n);
         string s(n,'.');
-        for(int i =0;i<n;i++) board[i]=s;
+        for(int i = 0;i<n;i++) board[i]=s;
         solve(0,n,board,answer);
         return answer;
     }

@@ -1,48 +1,53 @@
 class Solution {
 public:
-
-    bool isSafe(int row,int col,vector<string>&board,int n){
+    bool isValid(int row,int col,vector<string>&board,int n) {
         int r=row;
         int c=col;
-        while(r>=0&&c>=0){
-            if(board[r][c]=='Q')return false;
+        //upper left diagonal
+        while(r>=0 && c>=0){
+            if(board[r][c]=='Q') return false;
             r--;
             c--;
         }
-        c=col;
         r=row;
-        while(c>=0) {
-            if(board[r][c]=='Q')return false;
+        c=col;
+        //left col
+        while(c>=0){
+            if(board[r][c]=='Q') return false;
             c--;
         }
-        c=col;
+        //lower left diagonal
         r=row;
-        while(r<n&&c>=0){
-            if(board[r][c]=='Q')return false;
+        c=col;
+        while(r<n && c>=0){
+            if(board[r][c]=='Q') return false;
             r++;
             c--;
         }
         return true;
     }
-    void solve(int col,vector<string>&board,vector<vector<string>>&ans,int n){
+
+    void solve(int col,int n,vector<string>&board,vector<vector<string>>&ans){
         if(col==n){
             ans.push_back(board);
             return;
         }
         for(int row=0;row<n;row++){
-            if(isSafe(row,col,board,n)){
+            if(isValid(row,col,board,n)){
                 board[row][col]='Q';
-                solve(col+1,board,ans,n);
+                solve(col+1,n,board,ans);
                 board[row][col]='.';
             }
         }
     }
     vector<vector<string>> solveNQueens(int n) {
-        vector<vector<string>>ans;
         vector<string>board(n);
         string s(n,'.');
-        for(int i=0;i<n;i++)board[i]=s;
-        solve(0,board,ans,n);
+        for(int i =0;i<n;i++) {
+            board[i]=s;
+        }
+        vector<vector<string>>ans;
+        solve(0,n,board,ans);
         return ans;
     }
 };

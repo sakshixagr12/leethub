@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sakshixagr12/leethub/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshixagr12/leethub/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0037-sudoku-solver](https://github.com/sakshixagr12/leethub/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/sakshixagr12/leethub/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sakshixagr12/leethub/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sakshixagr12/leethub/tree/main/0141-linked-list-cycle/) | Easy |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/sakshixagr12/leethub/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/sakshixagr12/leethub/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sakshixagr12/leethub/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0037-sudoku-solver](https://github.com/sakshixagr12/leethub/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/sakshixagr12/leethub/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/sakshixagr12/leethub/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/sakshixagr12/leethub/tree/main/0042-trapping-rain-water/) | Hard |
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/sakshixagr12/leethub/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/sakshixagr12/leethub/tree/main/0054-spiral-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/sakshixagr12/leethub/tree/main/0566-reshape-the-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/sakshixagr12/leethub/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -385,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/sakshixagr12/leethub/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/sakshixagr12/leethub/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/sakshixagr12/leethub/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/sakshixagr12/leethub/tree/main/0051-n-queens/) | Hard |

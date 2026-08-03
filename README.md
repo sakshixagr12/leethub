@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/sakshixagr12/leethub/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/sakshixagr12/leethub/tree/main/0090-subsets-ii/) | Medium |
 | [0231-power-of-two](https://github.com/sakshixagr12/leethub/tree/main/0231-power-of-two/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/sakshixagr12/leethub/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

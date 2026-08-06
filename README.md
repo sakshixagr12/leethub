@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0216-combination-sum-iii](https://github.com/sakshixagr12/leethub/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/sakshixagr12/leethub/tree/main/0217-contains-duplicate/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/sakshixagr12/leethub/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0260-single-number-iii](https://github.com/sakshixagr12/leethub/tree/main/0260-single-number-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/sakshixagr12/leethub/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/sakshixagr12/leethub/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sakshixagr12/leethub/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/sakshixagr12/leethub/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/sakshixagr12/leethub/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/sakshixagr12/leethub/tree/main/0231-power-of-two/) | Easy |
+| [0260-single-number-iii](https://github.com/sakshixagr12/leethub/tree/main/0260-single-number-iii/) | Medium |
 | [0461-hamming-distance](https://github.com/sakshixagr12/leethub/tree/main/0461-hamming-distance/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sakshixagr12/leethub/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Simulation

@@ -459,4 +459,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sakshixagr12/leethub/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/sakshixagr12/leethub/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->

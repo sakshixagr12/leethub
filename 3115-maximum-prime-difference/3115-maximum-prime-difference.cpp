@@ -8,12 +8,19 @@ public:
         return true;
     }
     int maximumPrimeDifference(vector<int>& nums) {
-        vector<int>prime;
+      //  vector<int>prime;
         int n = nums.size();
+        int firstPrimeNum=-1;
         for(int i=0; i<n; i++) {
-            if(Isprime(nums[i])) prime.push_back(i);
+            if(Isprime(nums[i])){
+                firstPrimeNum=i;
+                break;
+            }
         }
-        int k = prime.size();
-        return prime[k-1]-prime[0];
+        int lastprime=firstPrimeNum;
+        for(int i=firstPrimeNum;i<n;i++){
+            if( Isprime(nums[i])) lastprime=i;
+        }
+        return lastprime-firstPrimeNum;
     }
 };

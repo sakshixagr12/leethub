@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/sakshixagr12/leethub/tree/main/0137-single-number-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshixagr12/leethub/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/sakshixagr12/leethub/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0164-maximum-gap](https://github.com/sakshixagr12/leethub/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/sakshixagr12/leethub/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/sakshixagr12/leethub/tree/main/0189-rotate-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/sakshixagr12/leethub/tree/main/0216-combination-sum-iii/) | Medium |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/sakshixagr12/leethub/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/sakshixagr12/leethub/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/sakshixagr12/leethub/tree/main/0049-group-anagrams/) | Medium |
+| [0164-maximum-gap](https://github.com/sakshixagr12/leethub/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/sakshixagr12/leethub/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/sakshixagr12/leethub/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/sakshixagr12/leethub/tree/main/0242-valid-anagram/) | Easy |
@@ -454,10 +456,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/sakshixagr12/leethub/tree/main/0164-maximum-gap/) | Medium |
 | [0912-sort-an-array](https://github.com/sakshixagr12/leethub/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/sakshixagr12/leethub/tree/main/0164-maximum-gap/) | Medium |
 | [0912-sort-an-array](https://github.com/sakshixagr12/leethub/tree/main/0912-sort-an-array/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -480,4 +484,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3115-maximum-prime-difference](https://github.com/sakshixagr12/leethub/tree/main/3115-maximum-prime-difference/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/sakshixagr12/leethub/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->

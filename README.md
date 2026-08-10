@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/sakshixagr12/leethub/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/sakshixagr12/leethub/tree/main/0231-power-of-two/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/sakshixagr12/leethub/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [3115-maximum-prime-difference](https://github.com/sakshixagr12/leethub/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/sakshixagr12/leethub/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sakshixagr12/leethub/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Recursion
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sakshixagr12/leethub/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sakshixagr12/leethub/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sakshixagr12/leethub/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3115-maximum-prime-difference](https://github.com/sakshixagr12/leethub/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3731-find-missing-elements](https://github.com/sakshixagr12/leethub/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sakshixagr12/leethub/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Binary Search
@@ -447,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3115-maximum-prime-difference](https://github.com/sakshixagr12/leethub/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sakshixagr12/leethub/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -473,4 +476,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3115-maximum-prime-difference](https://github.com/sakshixagr12/leethub/tree/main/3115-maximum-prime-difference/) | Medium |
 <!---LeetCode Topics End-->

@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/sakshixagr12/leethub/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/sakshixagr12/leethub/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshixagr12/leethub/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sakshixagr12/leethub/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/sakshixagr12/leethub/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/sakshixagr12/leethub/tree/main/0392-is-subsequence/) | Easy |
 ## Monotonic Stack
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sakshixagr12/leethub/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sakshixagr12/leethub/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sakshixagr12/leethub/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/sakshixagr12/leethub/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sakshixagr12/leethub/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0226-invert-binary-tree/) | Easy |
@@ -375,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sakshixagr12/leethub/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sakshixagr12/leethub/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sakshixagr12/leethub/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/sakshixagr12/leethub/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sakshixagr12/leethub/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0226-invert-binary-tree/) | Easy |
@@ -415,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sakshixagr12/leethub/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sakshixagr12/leethub/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sakshixagr12/leethub/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/sakshixagr12/leethub/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sakshixagr12/leethub/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0226-invert-binary-tree/) | Easy |
@@ -479,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sakshixagr12/leethub/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Primality Test
 | Problem Name | Difficulty |

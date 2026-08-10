@@ -17,6 +17,7 @@ public:
                 break;
             }
         }
+        if(firstPrimeNum==-1) return 0;
         int lastprime=firstPrimeNum;
         for(int i=firstPrimeNum;i<n;i++){
             if( Isprime(nums[i])) lastprime=i;

@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/sakshixagr12/leethub/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sakshixagr12/leethub/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/sakshixagr12/leethub/tree/main/0567-permutation-in-string/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [3731-find-missing-elements](https://github.com/sakshixagr12/leethub/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sakshixagr12/leethub/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Linked List
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/sakshixagr12/leethub/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/sakshixagr12/leethub/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sakshixagr12/leethub/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sakshixagr12/leethub/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sakshixagr12/leethub/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sakshixagr12/leethub/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -365,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/sakshixagr12/leethub/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sakshixagr12/leethub/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -388,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0449-serialize-and-deserialize-bst](https://github.com/sakshixagr12/leethub/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -403,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0449-serialize-and-deserialize-bst](https://github.com/sakshixagr12/leethub/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -431,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/sakshixagr12/leethub/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sakshixagr12/leethub/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |

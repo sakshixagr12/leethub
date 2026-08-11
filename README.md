@@ -364,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sakshixagr12/leethub/tree/main/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0404-sum-of-left-leaves](https://github.com/sakshixagr12/leethub/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0449-serialize-and-deserialize-bst](https://github.com/sakshixagr12/leethub/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -392,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sakshixagr12/leethub/tree/main/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0404-sum-of-left-leaves](https://github.com/sakshixagr12/leethub/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0449-serialize-and-deserialize-bst](https://github.com/sakshixagr12/leethub/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -411,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/sakshixagr12/leethub/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0404-sum-of-left-leaves](https://github.com/sakshixagr12/leethub/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0449-serialize-and-deserialize-bst](https://github.com/sakshixagr12/leethub/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -439,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sakshixagr12/leethub/tree/main/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0404-sum-of-left-leaves](https://github.com/sakshixagr12/leethub/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0449-serialize-and-deserialize-bst](https://github.com/sakshixagr12/leethub/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |

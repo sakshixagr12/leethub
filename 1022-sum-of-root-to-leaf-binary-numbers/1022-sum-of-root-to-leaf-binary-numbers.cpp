@@ -45,20 +45,18 @@
 class Solution {
 public:
     void sum(TreeNode* root, int& s, int n) {
-        if (root == nullptr)
+        if(root == nullptr)
             return;
-        n = n * 2 + root->val;
+        n= n*2+root->val;
         if (root->left == nullptr && root->right == nullptr) {
             s += n;
             return;
         }
-
         sum(root->left, s, n);
         sum(root->right, s, n);
     }
-
     int sumRootToLeaf(TreeNode* root) {
-        int ans = 0;
+        int ans =0;
         sum(root, ans, 0);
         return ans;
     }

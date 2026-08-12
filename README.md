@@ -369,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0449-serialize-and-deserialize-bst](https://github.com/sakshixagr12/leethub/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/sakshixagr12/leethub/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sakshixagr12/leethub/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -400,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0449-serialize-and-deserialize-bst](https://github.com/sakshixagr12/leethub/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sakshixagr12/leethub/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -420,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/sakshixagr12/leethub/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0449-serialize-and-deserialize-bst](https://github.com/sakshixagr12/leethub/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Binary Tree
@@ -451,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0449-serialize-and-deserialize-bst](https://github.com/sakshixagr12/leethub/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/sakshixagr12/leethub/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sakshixagr12/leethub/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |

@@ -1,0 +1,34 @@
+class Solution {
+public:
+    vector<int> majorityElement(vector<int>& nums) {
+        vector<int> ans ;
+        int n = nums.size();
+        int cand1 = -1 , cnt1 = 0;
+        int cand2 = -1 , cnt2 = 0;
+        for ( auto x : nums){
+            if (x == cand1){
+                cnt1++;
+            } else if (x == cand2) {
+                cnt2++;
+            } else if (cnt1 == 0){
+                cand1 = x;
+                cnt1++;
+            } else if ( cnt2 == 0 ) {
+                cand2 = x;
+                cnt2++;
+            } else {
+                cnt1--;
+                cnt2--;
+            }
+        }
+        cnt1 = 0, cnt2 = 0;
+        for (int x : nums) {
+            if ( x == cand1) cnt1++;
+            else if ( x == cand2) cnt2++;
+        }
+        if (cnt1 > n/3) ans.push_back( cand1 );
+        if (cnt2 > n/3) ans.push_back( cand2 );
+
+        return ans;
+    }
+};

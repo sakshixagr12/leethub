@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/sakshixagr12/leethub/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sakshixagr12/leethub/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sakshixagr12/leethub/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sorting
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/sakshixagr12/leethub/tree/main/0090-subsets-ii/) | Medium |
 | [0137-single-number-ii](https://github.com/sakshixagr12/leethub/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/sakshixagr12/leethub/tree/main/0191-number-of-1-bits/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/sakshixagr12/leethub/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0231-power-of-two](https://github.com/sakshixagr12/leethub/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/sakshixagr12/leethub/tree/main/0260-single-number-iii/) | Medium |
 | [0461-hamming-distance](https://github.com/sakshixagr12/leethub/tree/main/0461-hamming-distance/) | Easy |
@@ -371,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/sakshixagr12/leethub/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sakshixagr12/leethub/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/sakshixagr12/leethub/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/sakshixagr12/leethub/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sakshixagr12/leethub/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -463,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/sakshixagr12/leethub/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sakshixagr12/leethub/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/sakshixagr12/leethub/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/sakshixagr12/leethub/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sakshixagr12/leethub/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |

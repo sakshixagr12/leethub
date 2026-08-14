@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0164-maximum-gap](https://github.com/sakshixagr12/leethub/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/sakshixagr12/leethub/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/sakshixagr12/leethub/tree/main/0189-rotate-array/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/sakshixagr12/leethub/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/sakshixagr12/leethub/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/sakshixagr12/leethub/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/sakshixagr12/leethub/tree/main/0229-majority-element-ii/) | Medium |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/sakshixagr12/leethub/tree/main/0049-group-anagrams/) | Medium |
 | [0164-maximum-gap](https://github.com/sakshixagr12/leethub/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/sakshixagr12/leethub/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/sakshixagr12/leethub/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sakshixagr12/leethub/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/sakshixagr12/leethub/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/sakshixagr12/leethub/tree/main/0242-valid-anagram/) | Easy |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/sakshixagr12/leethub/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/sakshixagr12/leethub/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/sakshixagr12/leethub/tree/main/0191-number-of-1-bits/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/sakshixagr12/leethub/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/sakshixagr12/leethub/tree/main/0912-sort-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sakshixagr12/leethub/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Counting
@@ -289,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sakshixagr12/leethub/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0215-kth-largest-element-in-an-array](https://github.com/sakshixagr12/leethub/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/sakshixagr12/leethub/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0912-sort-an-array](https://github.com/sakshixagr12/leethub/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sakshixagr12/leethub/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -557,4 +561,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/sakshixagr12/leethub/tree/main/0229-majority-element-ii/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sakshixagr12/leethub/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->

@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/sakshixagr12/leethub/tree/main/0231-power-of-two/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/sakshixagr12/leethub/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sakshixagr12/leethub/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/sakshixagr12/leethub/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/sakshixagr12/leethub/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/sakshixagr12/leethub/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sakshixagr12/leethub/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/sakshixagr12/leethub/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sakshixagr12/leethub/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/sakshixagr12/leethub/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/sakshixagr12/leethub/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sakshixagr12/leethub/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sakshixagr12/leethub/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sakshixagr12/leethub/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |

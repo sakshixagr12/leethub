@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/sakshixagr12/leethub/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/sakshixagr12/leethub/tree/main/0231-power-of-two/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/sakshixagr12/leethub/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sakshixagr12/leethub/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/sakshixagr12/leethub/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/sakshixagr12/leethub/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sakshixagr12/leethub/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |

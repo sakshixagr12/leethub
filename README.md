@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/sakshixagr12/leethub/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/sakshixagr12/leethub/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/sakshixagr12/leethub/tree/main/0567-permutation-in-string/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/sakshixagr12/leethub/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/sakshixagr12/leethub/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sakshixagr12/leethub/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sakshixagr12/leethub/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/sakshixagr12/leethub/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/sakshixagr12/leethub/tree/main/0231-power-of-two/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/sakshixagr12/leethub/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/sakshixagr12/leethub/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sakshixagr12/leethub/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sakshixagr12/leethub/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/sakshixagr12/leethub/tree/main/3115-maximum-prime-difference/) | Medium |
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sakshixagr12/leethub/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sakshixagr12/leethub/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/sakshixagr12/leethub/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sakshixagr12/leethub/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |

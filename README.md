@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/sakshixagr12/leethub/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/sakshixagr12/leethub/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sakshixagr12/leethub/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/sakshixagr12/leethub/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sakshixagr12/leethub/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/sakshixagr12/leethub/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/sakshixagr12/leethub/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/sakshixagr12/leethub/tree/main/0162-find-peak-element/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/sakshixagr12/leethub/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sakshixagr12/leethub/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/sakshixagr12/leethub/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/sakshixagr12/leethub/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sakshixagr12/leethub/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sorting

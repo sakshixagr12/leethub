@@ -13,11 +13,9 @@ public:
     ListNode* deleteDuplicates(ListNode* head) {
         if(head==nullptr)return nullptr;
         if(head->next==nullptr)return head;
-    
         ListNode *curr=head;
         ListNode* prev=nullptr;
         ListNode* temp=curr->next;
-        
         while(curr && temp) {
 
             //if adjancents r not same

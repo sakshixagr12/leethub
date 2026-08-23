@@ -5,10 +5,9 @@ public:
         int low=0;
         int high=n-1;
         if(n==1)return 0;
-
         while(low<=high){
             int mid = low+(high-low)/2;
-            if((mid==0||nums[mid-1]<=nums[mid])&&(mid==n-1||nums[mid+1]<=nums[mid]))
+            if((mid==0||nums[mid-1]<=nums[mid]) &&(mid==n-1||nums[mid+1]<=nums[mid]))
                 return mid;
             else if (mid>0 && nums[mid-1]>=nums[mid]){
                 high = mid-1;

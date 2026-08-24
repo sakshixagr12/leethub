@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sakshixagr12/leethub/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0547-number-of-provinces](https://github.com/sakshixagr12/leethub/tree/main/0547-number-of-provinces/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -460,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/sakshixagr12/leethub/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0449-serialize-and-deserialize-bst](https://github.com/sakshixagr12/leethub/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/sakshixagr12/leethub/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -483,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/sakshixagr12/leethub/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0449-serialize-and-deserialize-bst](https://github.com/sakshixagr12/leethub/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
+| [0547-number-of-provinces](https://github.com/sakshixagr12/leethub/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -602,4 +605,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sakshixagr12/leethub/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/sakshixagr12/leethub/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->

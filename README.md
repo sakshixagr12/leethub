@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/sakshixagr12/leethub/tree/main/0443-string-compression/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/sakshixagr12/leethub/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0567-permutation-in-string](https://github.com/sakshixagr12/leethub/tree/main/0567-permutation-in-string/) | Medium |
+| [0796-rotate-string](https://github.com/sakshixagr12/leethub/tree/main/0796-rotate-string/) | Easy |
 | [3340-check-balanced-string](https://github.com/sakshixagr12/leethub/tree/main/3340-check-balanced-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sakshixagr12/leethub/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Design
@@ -609,4 +610,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/sakshixagr12/leethub/tree/main/0547-number-of-provinces/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/sakshixagr12/leethub/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->

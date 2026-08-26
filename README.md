@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/sakshixagr12/leethub/tree/main/0567-permutation-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/sakshixagr12/leethub/tree/main/0796-rotate-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sakshixagr12/leethub/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [3163-string-compression-iii](https://github.com/sakshixagr12/leethub/tree/main/3163-string-compression-iii/) | Medium |
 | [3340-check-balanced-string](https://github.com/sakshixagr12/leethub/tree/main/3340-check-balanced-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sakshixagr12/leethub/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Design

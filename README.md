@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/sakshixagr12/leethub/tree/main/0002-add-two-numbers/) | Medium |
 | [0067-add-binary](https://github.com/sakshixagr12/leethub/tree/main/0067-add-binary/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshixagr12/leethub/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/sakshixagr12/leethub/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/sakshixagr12/leethub/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/sakshixagr12/leethub/tree/main/0231-power-of-two/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/sakshixagr12/leethub/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/sakshixagr12/leethub/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/sakshixagr12/leethub/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sakshixagr12/leethub/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/sakshixagr12/leethub/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0205-isomorphic-strings](https://github.com/sakshixagr12/leethub/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/sakshixagr12/leethub/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/sakshixagr12/leethub/tree/main/0257-binary-tree-paths/) | Easy |

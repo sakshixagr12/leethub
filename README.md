@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/sakshixagr12/leethub/tree/main/0567-permutation-in-string/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2248-intersection-of-multiple-arrays](https://github.com/sakshixagr12/leethub/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sakshixagr12/leethub/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/sakshixagr12/leethub/tree/main/2404-most-frequent-even-element/) | Easy |
 | [3731-find-missing-elements](https://github.com/sakshixagr12/leethub/tree/main/3731-find-missing-elements/) | Easy |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sakshixagr12/leethub/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sakshixagr12/leethub/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sakshixagr12/leethub/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2248-intersection-of-multiple-arrays](https://github.com/sakshixagr12/leethub/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/sakshixagr12/leethub/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/sakshixagr12/leethub/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sakshixagr12/leethub/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/sakshixagr12/leethub/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sakshixagr12/leethub/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/sakshixagr12/leethub/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sakshixagr12/leethub/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sakshixagr12/leethub/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/sakshixagr12/leethub/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -312,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/sakshixagr12/leethub/tree/main/0229-majority-element-ii/) | Medium |
 | [0383-ransom-note](https://github.com/sakshixagr12/leethub/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sakshixagr12/leethub/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/sakshixagr12/leethub/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/sakshixagr12/leethub/tree/main/2404-most-frequent-even-element/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sakshixagr12/leethub/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Dynamic Programming

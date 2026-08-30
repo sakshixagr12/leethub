@@ -9,7 +9,7 @@ public:
             int mid = low+(high-low)/2;
             if((mid==0||nums[mid-1]<=nums[mid]) &&(mid==n-1||nums[mid+1]<=nums[mid]))
                 return mid;
-            else if (mid>0 && nums[mid-1]>=nums[mid]){
+            else if(mid>0 && nums[mid-1]>=nums[mid]){
                 high = mid-1;
             }else
                 low=mid+1;

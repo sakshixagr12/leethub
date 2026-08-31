@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/sakshixagr12/leethub/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sakshixagr12/leethub/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sakshixagr12/leethub/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1528-shuffle-string](https://github.com/sakshixagr12/leethub/tree/main/1528-shuffle-string/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/sakshixagr12/leethub/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sakshixagr12/leethub/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sakshixagr12/leethub/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/sakshixagr12/leethub/tree/main/0647-palindromic-substrings/) | Medium |
 | [0796-rotate-string](https://github.com/sakshixagr12/leethub/tree/main/0796-rotate-string/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sakshixagr12/leethub/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1528-shuffle-string](https://github.com/sakshixagr12/leethub/tree/main/1528-shuffle-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sakshixagr12/leethub/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [3163-string-compression-iii](https://github.com/sakshixagr12/leethub/tree/main/3163-string-compression-iii/) | Medium |
 | [3340-check-balanced-string](https://github.com/sakshixagr12/leethub/tree/main/3340-check-balanced-string/) | Easy |

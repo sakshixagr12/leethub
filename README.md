@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1822-sign-of-the-product-of-an-array](https://github.com/sakshixagr12/leethub/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sakshixagr12/leethub/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sakshixagr12/leethub/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sakshixagr12/leethub/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sakshixagr12/leethub/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/sakshixagr12/leethub/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/sakshixagr12/leethub/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sakshixagr12/leethub/tree/main/0011-container-with-most-water/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sakshixagr12/leethub/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sakshixagr12/leethub/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |

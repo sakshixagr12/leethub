@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/sakshixagr12/leethub/tree/main/0567-permutation-in-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/sakshixagr12/leethub/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0647-palindromic-substrings](https://github.com/sakshixagr12/leethub/tree/main/0647-palindromic-substrings/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/sakshixagr12/leethub/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/sakshixagr12/leethub/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sakshixagr12/leethub/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sakshixagr12/leethub/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0449-serialize-and-deserialize-bst](https://github.com/sakshixagr12/leethub/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0567-permutation-in-string](https://github.com/sakshixagr12/leethub/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/sakshixagr12/leethub/tree/main/0647-palindromic-substrings/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/sakshixagr12/leethub/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0796-rotate-string](https://github.com/sakshixagr12/leethub/tree/main/0796-rotate-string/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sakshixagr12/leethub/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1528-shuffle-string](https://github.com/sakshixagr12/leethub/tree/main/1528-shuffle-string/) | Easy |
@@ -396,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sakshixagr12/leethub/tree/main/0011-container-with-most-water/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/sakshixagr12/leethub/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sakshixagr12/leethub/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sakshixagr12/leethub/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Matrix

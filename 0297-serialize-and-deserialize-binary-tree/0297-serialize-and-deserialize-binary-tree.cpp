@@ -40,17 +40,12 @@ public:
         idx+=1;
         
         if(temp=="N") {
-            
             node=nullptr;
             return;
         }
-        
         node= new TreeNode(stoi(temp));
-
         buildTree(s,node->left,idx);
-        buildTree(s,node->right,idx);
-
-        
+        buildTree(s,node->right,idx);   
     }
     TreeNode* deserialize(string data) {
         if(data[0]=='N') return nullptr;

@@ -310,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/sakshixagr12/leethub/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0796-rotate-string](https://github.com/sakshixagr12/leethub/tree/main/0796-rotate-string/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sakshixagr12/leethub/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/sakshixagr12/leethub/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1528-shuffle-string](https://github.com/sakshixagr12/leethub/tree/main/1528-shuffle-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sakshixagr12/leethub/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [3163-string-compression-iii](https://github.com/sakshixagr12/leethub/tree/main/3163-string-compression-iii/) | Medium |
@@ -377,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/sakshixagr12/leethub/tree/main/0392-is-subsequence/) | Easy |
 | [0518-coin-change-ii](https://github.com/sakshixagr12/leethub/tree/main/0518-coin-change-ii/) | Medium |
 | [0647-palindromic-substrings](https://github.com/sakshixagr12/leethub/tree/main/0647-palindromic-substrings/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/sakshixagr12/leethub/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -752,4 +754,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0322-coin-change](https://github.com/sakshixagr12/leethub/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/sakshixagr12/leethub/tree/main/0518-coin-change-ii/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/sakshixagr12/leethub/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->

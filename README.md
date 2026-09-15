@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/sakshixagr12/leethub/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/sakshixagr12/leethub/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/sakshixagr12/leethub/tree/main/0739-daily-temperatures/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/sakshixagr12/leethub/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0912-sort-an-array](https://github.com/sakshixagr12/leethub/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sakshixagr12/leethub/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sakshixagr12/leethub/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -380,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/sakshixagr12/leethub/tree/main/0392-is-subsequence/) | Easy |
 | [0518-coin-change-ii](https://github.com/sakshixagr12/leethub/tree/main/0518-coin-change-ii/) | Medium |
 | [0647-palindromic-substrings](https://github.com/sakshixagr12/leethub/tree/main/0647-palindromic-substrings/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/sakshixagr12/leethub/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/sakshixagr12/leethub/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |

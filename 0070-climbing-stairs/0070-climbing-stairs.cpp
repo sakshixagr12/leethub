@@ -13,10 +13,10 @@ public:
         func(sum-2,ans);
     }
     int solve(int n) {
-        if ( n==0)
-        {
-            return 1;
-        }
+        // if ( n==0)
+        // {
+        //     return 1;
+        // }
         vector<int>dp(n+1,1);
         dp[0]=1;
         dp[1]=1;

@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/sakshixagr12/leethub/tree/main/0260-single-number-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/sakshixagr12/leethub/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/sakshixagr12/leethub/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0322-coin-change](https://github.com/sakshixagr12/leethub/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sakshixagr12/leethub/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/sakshixagr12/leethub/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sakshixagr12/leethub/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/sakshixagr12/leethub/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/sakshixagr12/leethub/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/sakshixagr12/leethub/tree/main/0213-house-robber-ii/) | Medium |
+| [0322-coin-change](https://github.com/sakshixagr12/leethub/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/sakshixagr12/leethub/tree/main/0392-is-subsequence/) | Easy |
 | [0647-palindromic-substrings](https://github.com/sakshixagr12/leethub/tree/main/0647-palindromic-substrings/) | Medium |
 ## Monotonic Stack
@@ -566,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/sakshixagr12/leethub/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0322-coin-change](https://github.com/sakshixagr12/leethub/tree/main/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/sakshixagr12/leethub/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0449-serialize-and-deserialize-bst](https://github.com/sakshixagr12/leethub/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sakshixagr12/leethub/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -737,4 +740,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/sakshixagr12/leethub/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/sakshixagr12/leethub/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/sakshixagr12/leethub/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->

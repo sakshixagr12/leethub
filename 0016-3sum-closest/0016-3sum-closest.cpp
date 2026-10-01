@@ -5,9 +5,9 @@ public:
         if(nums.size()<3) return 0;
 
         sort(nums.begin(),nums.end());
-        int ans=nums[0]+nums[1]+nums[2];
+        int ans = nums[0]+nums[1]+nums[2];
 
-        for(int i =0;i<nums.size()-2;i++) {
+        for(int i = 0;i<nums.size()-2;i++) {
 
             if (i>0 && nums[i]==nums[i-1]) continue;
 
@@ -17,12 +17,13 @@ public:
             while (j<k) {
 
                 int sum = nums[i]+nums[j]+nums[k];
-                if ( abs(sum-target) < abs(ans-target)){
+                if ( abs(sum-target) < abs(ans-target))
+                    {
                         ans=sum;
                     }
 
                 if ( sum > target ) k--;
-                else if ( sum < target )j++;
+                else if ( sum < target ) j++;
                 else {
                    return sum;
                 }

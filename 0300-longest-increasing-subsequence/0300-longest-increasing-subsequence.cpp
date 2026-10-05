@@ -1,26 +1,31 @@
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
+        //return solve(nums,-1,0);
         int n = nums.size();
-        if ( n==0 || n==1) return n;
-        vector<int>v(n);
-        v[0]=1;
-        for(int i=1; i<n; i++)
+        vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
+        return solve(nums,-1,0,dp);
+    }
+    // recursion -> pick & not pick
+    int solve(vector<int>& nums, int prev, int curr,vector<vector<int>>& dp)
+    {
+        int n = nums.size();
+        if (curr >= n)
         {
-            v[i]=1;
-            for(int j=0; j<i; j++)
-            {
-                if(nums[j]<nums[i])
-                {
-                    v[i]=max(v[i],v[j]+1);
-                }
-            }
+            return 0;
         }
-        int ans = v[0];
-        for ( auto it:v){
-            if (it > ans)
-                ans = it;
+        if(dp[curr][prev+1]!=-1)
+        {
+            return dp[curr][prev+1];
         }
-        return ans;
+        int pick = 0, notpick = 0;
+        if ( prev == -1 || nums[curr] > nums[prev])
+        {
+            pick = 1+solve(nums, curr, curr+1, dp);
+        }
+         notpick = solve(nums, prev, curr+1, dp);
+
+        dp[curr][prev+1] = max(pick, notpick);
+        return dp[curr][prev+1];
     }
 };

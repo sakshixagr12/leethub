@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/sakshixagr12/leethub/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0912-sort-an-array](https://github.com/sakshixagr12/leethub/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sakshixagr12/leethub/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0994-rotting-oranges](https://github.com/sakshixagr12/leethub/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sakshixagr12/leethub/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sakshixagr12/leethub/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1528-shuffle-string](https://github.com/sakshixagr12/leethub/tree/main/1528-shuffle-string/) | Easy |
@@ -461,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/sakshixagr12/leethub/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/sakshixagr12/leethub/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0733-flood-fill](https://github.com/sakshixagr12/leethub/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/sakshixagr12/leethub/tree/main/0994-rotting-oranges/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/sakshixagr12/leethub/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -599,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sakshixagr12/leethub/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [0994-rotting-oranges](https://github.com/sakshixagr12/leethub/tree/main/0994-rotting-oranges/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sakshixagr12/leethub/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Tree

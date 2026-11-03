@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/sakshixagr12/leethub/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/sakshixagr12/leethub/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/sakshixagr12/leethub/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/sakshixagr12/leethub/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/sakshixagr12/leethub/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sakshixagr12/leethub/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/sakshixagr12/leethub/tree/main/0216-combination-sum-iii/) | Medium |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sakshixagr12/leethub/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/sakshixagr12/leethub/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/sakshixagr12/leethub/tree/main/0547-number-of-provinces/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -455,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/sakshixagr12/leethub/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/sakshixagr12/leethub/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/sakshixagr12/leethub/tree/main/0054-spiral-matrix/) | Medium |
+| [0200-number-of-islands](https://github.com/sakshixagr12/leethub/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sakshixagr12/leethub/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/sakshixagr12/leethub/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0733-flood-fill](https://github.com/sakshixagr12/leethub/tree/main/0733-flood-fill/) | Easy |
@@ -546,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/sakshixagr12/leethub/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sakshixagr12/leethub/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/sakshixagr12/leethub/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/sakshixagr12/leethub/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sakshixagr12/leethub/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sakshixagr12/leethub/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -580,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sakshixagr12/leethub/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/sakshixagr12/leethub/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/sakshixagr12/leethub/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/sakshixagr12/leethub/tree/main/0322-coin-change/) | Medium |

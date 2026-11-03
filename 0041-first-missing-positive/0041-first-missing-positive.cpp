@@ -1,7 +1,7 @@
 class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
-        unordered_map<int,int>mpp;
+        map<int,int>mpp;
         for(int it:nums){
             if(it>0){
                 mpp[it]=1;

@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sakshixagr12/leethub/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshixagr12/leethub/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/sakshixagr12/leethub/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/sakshixagr12/leethub/tree/main/0130-surrounded-regions/) | Medium |
 | [0137-single-number-ii](https://github.com/sakshixagr12/leethub/tree/main/0137-single-number-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sakshixagr12/leethub/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/sakshixagr12/leethub/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sakshixagr12/leethub/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/sakshixagr12/leethub/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/sakshixagr12/leethub/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/sakshixagr12/leethub/tree/main/0547-number-of-provinces/) | Medium |
 ## Divide and Conquer
@@ -462,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/sakshixagr12/leethub/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/sakshixagr12/leethub/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/sakshixagr12/leethub/tree/main/0054-spiral-matrix/) | Medium |
+| [0130-surrounded-regions](https://github.com/sakshixagr12/leethub/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/sakshixagr12/leethub/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sakshixagr12/leethub/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0542-01-matrix](https://github.com/sakshixagr12/leethub/tree/main/0542-01-matrix/) | Medium |
@@ -553,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sakshixagr12/leethub/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sakshixagr12/leethub/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sakshixagr12/leethub/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0130-surrounded-regions](https://github.com/sakshixagr12/leethub/tree/main/0130-surrounded-regions/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/sakshixagr12/leethub/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sakshixagr12/leethub/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/sakshixagr12/leethub/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -590,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sakshixagr12/leethub/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sakshixagr12/leethub/tree/main/0112-path-sum/) | Easy |
+| [0130-surrounded-regions](https://github.com/sakshixagr12/leethub/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sakshixagr12/leethub/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/sakshixagr12/leethub/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sakshixagr12/leethub/tree/main/0226-invert-binary-tree/) | Easy |
